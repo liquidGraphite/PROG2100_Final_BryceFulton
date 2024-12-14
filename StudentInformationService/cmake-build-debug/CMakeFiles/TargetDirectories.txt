@@ -1,0 +1,3 @@
+C:/Users/Bryce/CLionProjects/StudentInformationService/cmake-build-debug/CMakeFiles/StudentInformationService.dir
+C:/Users/Bryce/CLionProjects/StudentInformationService/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Bryce/CLionProjects/StudentInformationService/cmake-build-debug/CMakeFiles/rebuild_cache.dir
